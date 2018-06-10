@@ -1,0 +1,57 @@
+body 
+{
+	background: linear-gradient(to bottom, #6699ff 21%, #6600cc 88%);
+	color: white;
+	background-repeat: no-repeat; 
+	height: 100%; 
+	background-attachment: fixed; 
+}
+
+h1
+{
+	font-size: 26pt;
+	font-family: Arial;
+	text-align: center; 
+}
+
+h2
+{
+	font-size: 19pt;
+	font-family: Arial;
+	text-align: center; 
+}
+
+p
+{
+	font-size: 13pt;
+	font-family: Arial;
+	text-align: center; 
+	width: 55%; 
+	margin-left: 22%;
+}
+
+a 
+{
+	color: #ffffff;
+}
+
+ul
+{
+	width:10%;
+	margin: auto;
+   	list-style-type: circle;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+	text-align: center;
+} 
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+html 
+{
+	background: transparent; 
+}
