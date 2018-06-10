@@ -38,7 +38,7 @@ ul
 {
 	width:30%;
 	margin: auto;
-   	list-style-type: circle;
+   	list-style-type: none;
 	font-family: Verdana, "Arial Narrow", sans-serif;
 	text-align: center;
 } 
